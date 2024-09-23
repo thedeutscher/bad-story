@@ -1,3 +1,4 @@
+# BAD Story Summary
 
 [Episode 1 - The Initiation](./1.md)
 
@@ -17,6 +18,6 @@
 
 ## License
 
-This work was written entirely by me and contains no quotes or other copyrighted material from the game. This work is licensed under CC BY-SA 4.0. See the [License File](./LICENSE.md).
+This summary was written entirely by me and contains no quotes or other copyrighted material from the game. This work is licensed under CC BY-SA 4.0. See the [License File](./LICENSE.md).
 
 "Being a DIK" is a trademark of Dr Pink Cake. I am not affiliated with DPC in any way.
