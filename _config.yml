@@ -15,6 +15,7 @@ show_excerpts: true
 
 minima:
   skin: auto
-  header_pages:
-    - index.md
+
+header_pages:
+  - index.md
 
