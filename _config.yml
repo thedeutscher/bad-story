@@ -11,6 +11,8 @@ include:
 
 theme: minima
 
+show_excerpts: true
+
 minima:
   skin: auto
   header_pages:
