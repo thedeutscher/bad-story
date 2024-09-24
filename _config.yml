@@ -9,7 +9,7 @@ relative_links:
 include:
   - index.md
 
-theme: minima
+remote_theme: jekyll/minima
 
 show_excerpts: true
 
