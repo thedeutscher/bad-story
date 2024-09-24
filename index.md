@@ -1,4 +1,8 @@
-# BAD Story Summary
+---
+permalink: /
+layout: home
+title: Index
+---
 
 [Episode 1 - The Initiation](./1.md)
 
