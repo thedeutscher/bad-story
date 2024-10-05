@@ -20,6 +20,8 @@ title: Index
 
 [Episode 8 - Crossroads](./8.md)
 
+[Interlude - Riding the Waves](./i1.md)
+
 ## License
 
 This summary was written entirely by me and contains no quotes or other copyrighted material from the game. This work is licensed under CC BY-SA 4.0. See the [License File](./LICENSE.md).
