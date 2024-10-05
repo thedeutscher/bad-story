@@ -22,6 +22,8 @@ title: Index
 
 [Interlude - Riding the Waves](./i1.md)
 
+[Episode 9 - Vixens](./9.md)
+
 ## License
 
 This summary was written entirely by me and contains no quotes or other copyrighted material from the game. This work is licensed under CC BY-SA 4.0. See the [License File](./LICENSE.md).
