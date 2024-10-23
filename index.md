@@ -50,6 +50,6 @@ What happens in route B
 
 ## License
 
-This summary was written entirely by me and contains no quotes or other copyrighted material from the game. This work is licensed under CC BY-SA 4.0. See the [License File](./LICENSE.md).
+This summary was written entirely by me and contains no quotes or other copyrighted material from the game. This work is licensed under CC BY-SA 4.0. See the [License File](./LICENSE).
 
 "Being a DIK" is a trademark of Dr Pink Cake. I am not affiliated with DPC in any way.
