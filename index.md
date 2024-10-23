@@ -30,7 +30,7 @@ title: Index
 
 Each episode's summary contains only story details from that episode, making it safe to read this summary up until where you're at in the story without risk of spoilers of later events.
 
-The summary refers to no specific route; it includes story pieces from different paths in the game unified into a single plot line. Events where it was not possible to do so because the contradictions between paths were too large are formatted as collapsed sections, which look like this:
+The summary refers to no specific route; it includes story pieces from different paths in the game unified into a single plot line. Events where it was not possible to do so because the contradictions between paths were too large are formatted as collapsible sections, which look like this:
 
 <p><details>
 <summary>Conditional story - Some event</summary>
