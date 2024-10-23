@@ -1,5 +1,8 @@
-title: BAD Story
-author: Deutscher
+title: Being a DIK Story Summary
+author:
+  name: Deutscher
+
+description: Complete summary of the story of "Being a DIK", divided by episodes
 
 plugins:
   - jekyll-relative-links
