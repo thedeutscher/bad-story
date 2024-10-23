@@ -34,16 +34,21 @@ The summary refers to no specific route; it includes story pieces from different
 
 <details>
 <summary>Conditional story - Some event</summary>
+
 Something happens depending on which route you chose.
 
 <details>
 <summary>Route A</summary>
+
 What happens in route A
+
 </details>
 
 <details>
 <summary>Route B</summary>
+
 What happens in route B
+
 </details>
 
 </details>
