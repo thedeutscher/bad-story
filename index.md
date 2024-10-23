@@ -32,26 +32,26 @@ Each episode's summary contains only story details from that episode, making it 
 
 The summary refers to no specific route; it includes story pieces from different paths in the game unified into a single plot line. Events where it was not possible to do so because the contradictions between paths were too large are formatted as collapsed sections, which look like this:
 
-<details>
+<p><details>
 <summary>Conditional story - Some event</summary>
 
 Something happens depending on which route you chose.
 
-<details>
+<p><details>
 <summary>Route A</summary>
 
 What happens in route A
 
-</details>
+</details></p>
 
-<details>
+<p><details>
 <summary>Route B</summary>
 
 What happens in route B
 
-</details>
+</details></p>
 
-</details>
+</details></p>
 
 ## License
 
