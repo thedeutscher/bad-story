@@ -26,6 +26,8 @@ title: Index
 
 [Episode 10 - Calm Before the Snow](./10.md)
 
+[Episode 11 - Paradigm Shift (WIP)](./11.md)
+
 ## How to read
 
 Each episode's summary contains only story details from that episode, making it safe to read this summary up until where you're at in the story without risk of spoilers of later events.
