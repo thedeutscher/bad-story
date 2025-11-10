@@ -26,7 +26,7 @@ title: Index
 
 [Episode 10 - Calm Before the Snow](./10.md)
 
-[Episode 11 - Paradigm Shift (WIP)](./11.md)
+[Episode 11 - Paradigm Shift](./11.md)
 
 ## How to read
 
