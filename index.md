@@ -10,7 +10,7 @@ title: Index
 
 [Episode 3 - 100%](./3.md)
 
-[Episode 4 - Worlds Colliding](./4.md)
+[Episode 4 - When Worlds Collide](./4.md)
 
 [Episode 5 - HOTheaded](./5.md)
 
