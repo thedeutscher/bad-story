@@ -28,6 +28,8 @@ title: Index
 
 [Episode 11 - Paradigm Shift](./11.md)
 
+Episode 12 - Smoke and Fire (TBD)
+
 ## How to read
 
 Each episode's summary contains only story details from that episode, making it safe to read this summary up until where you're at in the story without risk of spoilers of later events.
