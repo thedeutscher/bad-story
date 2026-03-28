@@ -55,6 +55,20 @@ What happens in route B
 
 </details></p>
 
+<p><details>
+<summary>Route B - Chose X</summary>
+
+What happens in route B if you also made choice X
+
+</details></p>
+
+<p><details>
+<summary>Route C, Route D</summary>
+
+What happens in route C or route D
+
+</details></p>
+
 </details></p>
 
 ## License
