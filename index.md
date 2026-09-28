@@ -28,7 +28,7 @@ title: Index
 
 [Episode 11 - Paradigm Shift](./11.md)
 
-Episode 12 - Smoke and Fire (TBD)
+[Episode 12 - Smoke and Fire (WIP)](./12.md)
 
 ## How to read
 
